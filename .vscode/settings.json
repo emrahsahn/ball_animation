@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.dbclient-js": "javascript",
+        "iostream": "cpp"
+    },
+    "cmake.sourceDirectory": "C:/Users/sahin/Documents/GitHub/ball_animation/cpp"
+}

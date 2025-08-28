@@ -1,0 +1,8 @@
+# Bu bir açıklama dosyasıdır.
+# Gerçek arial.ttf dosyasını yüklemeniz gerekmektedir.
+# Windows sistemlerde genellikle C:\Windows\Fonts dizininde bulunur.
+# Linux sistemlerde /usr/share/fonts/ dizininde bulunabilir.
+# veya internetten ücretsiz bir TTF font indirebilirsiniz.
+
+# Not: Bu dosyayı arial.ttf olarak kaydettim, ancak bu bir metin dosyasıdır.
+# Gerçek bir font dosyası değildir. Lütfen gerçek bir TTF font dosyası ile değiştirin.
